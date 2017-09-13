@@ -3,6 +3,7 @@
     <form>
     	<ul class="side-nav">
         	<li>名前</li>
+        	<input type="text" name="name" size="30">
         	<li>ふりがな</li>
         	<li>どの回か</li>
         	<li>何枚か</li>
